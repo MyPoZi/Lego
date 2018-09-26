@@ -1,0 +1,15 @@
+Cf-Ray: 45d3f1879b5094b1-NRT
+X-Xss-Protection: 1; mode=block
+Cache-Control: public, max-age=900
+Last-Modified: Thu, 16 Feb 2017 18:34:15 GMT
+Content-Type: text/plain
+Etag: W/"80ad60468388d21:0"
+Date: Thu, 20 Sep 2018 11:27:33 GMT
+Set-Cookie: __cfduid=d593e08b94d3590bac0bd1dc059e7b79e1537442853; expires=Fri, 20-Sep-19 11:27:33 GMT; path=/; domain=.brickset.com; HttpOnly; Secure
+Cf-Cache-Status: REVALIDATED
+Vary: Accept-Encoding
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+X-Powered-By-Plesk: PleskWin
+Content-Encoding: gzip
+Expires: Thu, 20 Sep 2018 11:42:33 GMT

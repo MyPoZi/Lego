@@ -1,0 +1,10 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cache-Control: private
+Date: Thu, 20 Sep 2018 16:11:54 GMT
+Cf-Ray: 45d5920dbb8294ff-NRT
+X-Xss-Protection: 1; mode=block
+X-Powered-By-Plesk: PleskWin
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Content-Encoding
